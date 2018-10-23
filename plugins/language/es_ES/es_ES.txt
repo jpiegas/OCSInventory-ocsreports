@@ -708,87 +708,87 @@
 815 número de discos duro con tamaño restante entre
 816 tamaño de disco duro máximo restante
 817 tamaño de disco duro mínimo restante
-818 Get out of group
-819 computer(s) added to group
-820 Last contact
-821 SERVER CONFIGURATION MODIFICATION
-822 Customize
-823 By default
-824 Interface logs activation
-825 Logs directory
-826 Address to find teledeploy packages fragments to activate
-827 Address to find teledeploy packages INFO files to activate
-828 Remove computers with inventory older than
-829 Redistribution packages creation directory
-830 Ldap server address
-831 Ldap server port
-832 Ldap base name + dc
-833 Field name to define login
+818 Quitar del grupo
+819 computador(as) agregada(s) al grupo
+820 Ultimo contacto
+821 ACTUALIZACION DE LA CONFIGURACION EN EL SERVIDOR
+822 Personalizar
+823 Por defecto
+824 Registrar logs de la interfaz
+825 Directorio para logs
+826 Directorio para los fragmentos de los paquetes de teledeploy para activar
+827 Directorio para los archivos INFO de los paquetes de teledeploy para activar
+828 Eliminar equipos con inventario anterior a
+829 Directorio para crear los paquetes de redistribución
+830 Dirección del servidor LDAP
+831 Puerto del servidor LDAP
+832 Dominio de base LDAP + DC
+833 Campo a verificar para el login
 834 Version LDAP_OPT_PROTOCOL_VERSION
-835 Add RSX
-836 Manage TYPES
-837 You don't have access to this datas
-838 Disk: Drive letter
-839 Disk: Type
-840 Disk: Format
-841 Disk: Capacity
-842 Disk: Free Space
-843 Disk: Volumn Name
-844 Group: Id
-845 Group: Static?
-846 Softwares: company
-847 Softwares: Name
-848 Softwares: Version
-849 Softwares: Install directory
-850 Softwares: Comments
-851 Bios: Computer manufacturer
-852 Bios: Model
-853 Bios: Serial number
-854 Bios: Computer type
-855 Bios: Manufacturer
-856 Bios: Version
-857 Bios: Date
-858 Monitor: Manufacturer
-859 Monitor: Name
-860 Monitor: Description
-861 Monitor: Type
-862 Monitor: Serial number
-863 Network: Description
-864 Network: Type
-865 Network: MibType
-866 Network: Speed
-867 Network: MAC Address
-868 Network: Status
-869 Network: IP Address
-870 Network: IP Netmask
-871 Network: Subnetwork IP
-872 Network: Gateway IP
-873 Network: DHCP IP
-874 Registry key: Name
-875 Registry key: Value
-876 Simple unaffect REDISTRIBUTION GROUP
-877 SOME COMPUTERS HAVEN'T BEEN ADDED TO GROUP BECAUSE:
-878 Reminder: a computer can be a member of one redistribution group only
-879 GROUPE REPLACED
-880 GROUP CREATED
-881 Computers added
-882 Computers deleted from group
-883 Restrict view
-884 WARNING: WITH FILTER visualisation
-885 unknown
-886 Simple desaffection
-887 It's possible that this package is not affected to redistribution servers
-888 Removal
-889 Connected as
-890 Interface is actually locked on a search with various criterias
-891 Remove interface LOCK
-892 connect with another account
-893 NO TAG AFFECTEID TO YOUR PROFILE
-894 NO RIGHTS LEVEL DEFINED TO YOUR PROFILE
-895 TAG Modification
-898 Add an annotation
-899 Writer
-900 Do you really want to delete selection?
+835 Agregar RSX
+836 Administrar Tipos
+837 NO tienes acceso a esa información
+838 Disco: Letra
+839 Disco: Tipo
+840 Disco: Formato
+841 Disco: Capacidad
+842 Disco: Espacio libre
+843 Disco: Volumen
+844 Grupo: Id
+845 Grupo: Estático?
+846 Software: Desarrollador
+847 Software: Nombre
+848 Software: Versión
+849 Software: Carpeta de instalación
+850 Software: Comentarios
+851 Bios: Fabricante del equipo
+852 Bios: Modelo
+853 Bios: Número de serie
+854 Bios: Tipo de computadora
+855 Bios: Fabricante
+856 Bios: Versión
+857 Bios: Fecha
+858 Monitor: Fabricante
+859 Monitor: Nombre
+860 Monitor: Descripción
+861 Monitor: Tipo
+862 Monitor: Número de serie
+863 Red: Descripción
+864 Red: Tipo
+865 Red: MibType
+866 Red: Velocidad
+867 Red: Dirección MAC
+868 Red: Estado
+869 Red: Dirección IP
+870 Red: Máscara de subred
+871 Red: Subred
+872 Red: Puerta de enlace
+873 Red: DHCP IP
+874 Clave de Registro: Nombre
+875 Clave de Registro: Valor
+876 Desafectar grupo de redistribución
+877 ALGUNAS COMPUTADORAS NO FUERON AGREGADAS AL GRUPO PORQUE:
+878 RECUERDA: una computadora solo puede pertenecer a UN grupo de redistribución
+879 GRUPO REMPLAZADO
+880 GRUPO CREADO
+881 Computadoras agregadas
+882 Computadoras quitadas del grupo
+883 Vista restringida
+884 ATENCIÓN: VISTA CON FILTROS
+885 desconocido
+886 Desafectado
+887 Es posible que ese paquete no sea afectado por el servidor de redistribución
+888 Eliminar
+889 Conectado como
+890 La interface esta momentaneamente bloqueada con una busqueda de varios criterios
+891 Eliminar bloqueo de la interface
+892 conectarse con otra cuenta
+893 NO TIENE TAG DEFINIDA PARA SU PERFIL
+894 NO TIENE PERMISOS ASIGNADOS PARA SU PERFIL
+895 Modificar TAG
+898 Agregar una nota
+899 Editor
+900 Realmente quiere borrar toda la selección?
 901 Action on the query result
 902 Action on the result of selection
 903 You must fill the explanation field
@@ -803,7 +803,7 @@
 912 Export list of computers that have this softwares
 913 Number of non inventoried network interfaces
 914 Number of agents that didn't send inventory since at least
-915 messages
+915 mensajes
 916 The value must be higher than
 917 FREQUENCY value
 918 Differential between LASTDATE and LASTCOME
@@ -1175,7 +1175,7 @@
 1293 Teledeploy force
 1294 Installation time
 1295 Installation date
-1296 OCS Professional
+1296 OCS Profesional
 1297 SNMP device identification
 1298 QRCode administration
 1299 QRCode
